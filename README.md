@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CooperCortinas
 - 👀 I’m interested in ... Running, math, fishing and video games
-- 🌱 I’m currently learning ... Coding in Java and R
+- 🌱 I’m currently learning ... Coding in Java, Python and R
 - 💞️ I’m looking to collaborate on ... Anything related to coding and data analysis
 - 📫 How to reach me ... cooper.cortinas@wsu.edu
 
